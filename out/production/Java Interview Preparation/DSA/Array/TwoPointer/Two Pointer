@@ -1,0 +1,17 @@
+The Two Pointer Technique is an algorithmic approach where you use two indices (pointers)
+to traverse a data structure (usually an array or string) efficiently.
+It often reduces the time complexity from O(n²) to O(n).
+
+1. Opposite Direction Pointers
+Used when the array is sorted.
+
+2. Same Direction Pointers (Sliding Window)
+Used for subarray/substring problems.
+
+Use it when you see:
+✅ Sorted arrays
+✅ Pair/triplet sum problems
+✅ Subarray/substring questions
+✅ Palindrome checking
+✅ Removing duplicates
+✅ Merging sorted arrays

@@ -1,0 +1,23 @@
+What is Prefix Sum?
+
+A prefix sum array stores the cumulative sum of elements from the beginning of the array up to each index.
+
+Suppose we have:
+
+arr = [2, 4, 6, 8, 10]
+
+The prefix sum array is:
+
+prefix = [2, 6, 12, 20, 30]
+
+Calculation:
+
+prefix[0] = 2
+
+prefix[1] = 2 + 4 = 6
+
+prefix[2] = 2 + 4 + 6 = 12
+
+prefix[3] = 2 + 4 + 6 + 8 = 20
+
+prefix[4] = 2 + 4 + 6 + 8 + 10 = 30
