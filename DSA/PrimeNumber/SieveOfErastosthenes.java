@@ -11,7 +11,6 @@ Space : O(n)
 
 public class SieveOfErastosthenes {
     public static void sieve(int n){
-
         boolean prime[] = new boolean[n+1];
 
         Arrays.fill(prime,true);
